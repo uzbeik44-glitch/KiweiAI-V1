@@ -1,0 +1,2326 @@
+{
+  "anime": [
+  
+  {
+    "name": "Bleach",
+    "genre": ["jangari", "fantastika", "sarguzasht"],
+    "desc": "Ruhlarni ko‘ra oladigan Ichigo tasodifan Shinigami kuchlariga ega bo‘lib, yovuz ruhlarga qarshi kurashadi.",
+    "popularity": 9,
+    "year": 2004,
+    "facts": [
+      "Tite Kubo mangasi asosida yaratilgan.",
+      "Soul Society arklari juda mashhur.",
+      "Yangi TYBW mavsumi bilan qaytgan."
+    ]
+  },
+  {
+    "name": "Naruto",
+    "genre": ["jangari", "drama", "sarguzasht"],
+    "desc": "Hokage bo‘lishni orzu qilgan Naruto Uzumaki ninjalik yo‘lida katta sinovlardan o‘tadi.",
+    "popularity": 10,
+    "year": 2002,
+    "facts": [
+      "Studio Pierrot tomonidan ishlangan.",
+      "Do‘stlik va sabr asosiy mavzu.",
+      "Naruto Shippuden davomidir."
+    ]
+  },
+  {
+    "name": "One Piece",
+    "genre": ["sarguzasht", "fantastika", "komediya"],
+    "desc": "Luffy va uning jamoasi afsonaviy One Piece xazinasini topish uchun dengizlarni kezadi.",
+    "popularity": 10,
+    "year": 1999,
+    "facts": [
+      "Eng uzun davom etayotgan animelardan biri.",
+      "Eiichiro Oda muallifi.",
+      "Dunyo qurilishi juda kuchli."
+    ]
+  },
+  {
+    "name": "Titanlar Hujumi",
+    "genre": ["jangari", "drama", "fantastika"],
+    "desc": "Insoniyat devlar hujumidan omon qolish uchun oxirgi kuchi bilan kurashadi.",
+    "popularity": 10,
+    "year": 2013,
+    "facts": [
+      "Hajime Isayama mangasi asosida.",
+      "Qorong‘i va falsafiy syujet.",
+      "MAPPA va WIT Studio ishlagan."
+    ]
+  },
+  {
+    "name": "Qora Klever",
+    "genre": ["fantastika", "jangari", "sarguzasht"],
+    "desc": "Sehrsiz tug‘ilgan Asta sehrga to‘la dunyoda eng kuchli bo‘lishni maqsad qiladi.",
+    "popularity": 8,
+    "year": 2017,
+    "facts": [
+      "Sehr va iroda asosiy mavzu.",
+      "Studio Pierrot ishlagan.",
+      "Asta anti-sehrga ega."
+    ]
+  },
+  {
+    "name": "Arra Odam",
+    "genre": ["jangari", "qo‘rqinchli", "fantastika"],
+    "desc": "Denji hayoti uchun iblis ovchiga aylanib, arra kuchiga ega bo‘ladi.",
+    "popularity": 9,
+    "year": 2022,
+    "facts": [
+      "MAPPA studiyasi tomonidan.",
+      "Qattiq va kattalar uchun syujet.",
+      "Mashhur manga adaptatsiyasi."
+    ]
+  },
+  {
+    "name": "Sening Isming",
+    "genre": ["romantika", "fantastika", "drama"],
+    "desc": "Ikki yosh tushlar orqali tanalarini almashtirib, taqdir bilan bog‘lanadi.",
+    "popularity": 10,
+    "year": 2016,
+    "facts": [
+      "Makoto Shinkai filmi.",
+      "Juda chiroyli animatsiya.",
+      "Dunyo bo‘yicha rekord daromad."
+    ]
+  },
+  {
+    "name": "Tokyo Guli",
+    "genre": ["drama", "qo‘rqinchli", "fantastika"],
+    "desc": "Oddiy yigit Kaneki yarim-gulga aylanib, ikki dunyo orasida qoladi.",
+    "popularity": 9,
+    "year": 2014,
+    "facts": [
+      "Qorong‘i psixologik syujet.",
+      "Studio Pierrot ishlagan.",
+      "Shaxsiyat mavzusi kuchli."
+    ]
+  },
+  {
+    "name": "Iblislar Qotili",
+    "genre": ["jangari", "fantastika", "drama"],
+    "desc": "Tanjiro iblislar tomonidan vayron qilingan oilasi uchun qasos oladi.",
+    "popularity": 10,
+    "year": 2019,
+    "facts": [
+      "Ufotable animatsiyasi bilan mashhur.",
+      "Oilaviy rishtalar muhim.",
+      "Film rekord daromad qilgan."
+    ]
+  },
+  {
+    "name": "O'lim kundaligi",
+    "genre": ["psixologik", "triller", "drama"],
+    "desc": "Light Yagami o‘lim daftarini topib, jinoyatchilardan tozalangan dunyo yaratmoqchi bo‘ladi.",
+    "popularity": 10,
+    "year": 2006,
+    "facts": [
+      "Aql o‘yinlari bilan mashhur.",
+      "L va Light qarama-qarshiligi.",
+      "Eng mashhur animelardan biri."
+    ]
+  },
+  
+  {
+    "name": "Josus X Oilasi",
+    "genre": ["komediya", "jangari", "drama"],
+    "desc": "Maxfiy josus topshiriq uchun soxta oila tuzadi, lekin har biri sir saqlaydi.",
+    "popularity": 9,
+    "year": 2022,
+    "facts": [
+      "Spy, qotil va telepat bitta oilada.",
+      "Komediya va drama uyg‘un.",
+      "WIT Studio va CloverWorks ishlagan."
+    ]
+  },
+  {
+    "name": "Voleybol",
+    "genre": ["sport", "drama", "motivatsiya"],
+    "desc": "Past bo‘yli Hinata voleybol orqali o‘z orzusiga yetishga harakat qiladi.",
+    "popularity": 9,
+    "year": 2014,
+    "facts": [
+      "Sport animelari orasida TOP.",
+      "Jamoaviylik kuchli ko‘rsatilgan.",
+      "Production I.G ishlagan."
+    ]
+  },
+  {
+    "name": "Jodugarlar Jangi",
+    "genre": ["jangari", "fantastika", "qo‘rqinchli"],
+    "desc": "Yigit la’natlangan kuchni yutib yuborib, jodugarlar urushiga tushib qoladi.",
+    "popularity": 10,
+    "year": 2020,
+    "facts": [
+      "Jujutsu Kaisen nomi bilan mashhur.",
+      "MAPPA studiyasi.",
+      "Zamonaviy eng kuchli shounen."
+    ]
+  },
+  {
+    "name": "Basketbol Kuroko",
+    "genre": ["sport", "drama"],
+    "desc": "Ko‘rinmas o‘yinchi Kuroko jamoasini g‘alabaga olib chiqadi.",
+    "popularity": 8,
+    "year": 2012,
+    "facts": [
+      "Basketbol animelarining klassikasi.",
+      "Har bir qahramon o‘ziga xos.",
+      "Tezkor va dinamik o‘yinlar."
+    ]
+  },
+  {
+    "name": "Mob Psixo 100",
+    "genre": ["komediya", "fantastika", "drama"],
+    "desc": "Kuchli psixik qobiliyatli bola oddiy hayot kechirishni xohlaydi.",
+    "popularity": 9,
+    "year": 2016,
+    "facts": [
+      "ONE muallifligida.",
+      "Psixologik o‘sish markazda.",
+      "Studio Bones ishlagan."
+    ]
+  },
+  {
+    "name": "Bir Zarbli Odam",
+    "genre": ["jangari", "komediya"],
+    "desc": "Saitama har qanday dushmanni bitta zarba bilan yengadi.",
+    "popularity": 10,
+    "year": 2015,
+    "facts": [
+      "Superqahramon parodiyasi.",
+      "Juda mashhur memlar.",
+      "ONE va Murata asari."
+    ]
+  },
+  {
+    "name": "Va’da Qilingan Neverland",
+    "genre": ["triller", "drama", "fantastika"],
+    "desc": "Bolalar uyi ortidagi dahshatli sirni bilib qolgan bolalar qochishga urinadi.",
+    "popularity": 9,
+    "year": 2019,
+    "facts": [
+      "Aql va strategiya muhim.",
+      "Qorong‘i syujet.",
+      "1-mavsum juda yuqori baholangan."
+    ]
+  },
+  {
+    "name": "Doktor Stoun",
+    "genre": ["ilmiy", "sarguzasht"],
+    "desc": "Insoniyat toshga aylangach, daho Senku ilm yordamida dunyoni tiklaydi.",
+    "popularity": 8,
+    "year": 2019,
+    "facts": [
+      "Ilmiy tushuntirishlar aniq.",
+      "Original g‘oya.",
+      "Ta’limiy anime."
+    ]
+  },
+  {
+    "name": "Monster",
+    "genre": ["psixologik", "triller", "drama"],
+    "desc": "Shifokor o‘zi saqlab qolgan bolaning haqiqiy yovuz ekanini bilib qoladi.",
+    "popularity": 9,
+    "year": 2004,
+    "facts": [
+      "Juda chuqur syujet.",
+      "Realistik uslub.",
+      "Naoki Urasawa mangasi."
+    ]
+  },
+  {
+    "name": "Samurai Champlo",
+    "genre": ["jangari", "sarguzasht"],
+    "desc": "Uchta notekis yo‘lovchi samuray yo‘lida sarguzashtga chiqadi.",
+    "popularity": 8,
+    "year": 2004,
+    "facts": [
+      "Hip-hop va samuray uyg‘unligi.",
+      "Studio Manglobe.",
+      "Soundtrack mashhur."
+    ]
+  },
+  
+  {
+    "name": "O‘ta Ehtiyotkor O‘lmas Qahramon",
+    "genre": ["fantastika", "komediya", "sarguzasht"],
+    "desc": "Qahramon haddan tashqari ehtiyotkor bo‘lib, har bir jangga ortiqcha tayyorgarlik ko‘radi.",
+    "popularity": 7,
+    "year": 2019,
+    "facts": [
+      "Komediya orqali isekai parodiyasi.",
+      "Qahramon xarakteri bilan mashhur.",
+      "Yengil va kulgili syujet."
+    ]
+  },
+  {
+    "name": "Darvin O‘yini",
+    "genre": ["jangari", "triller", "fantastika"],
+    "desc": "Telefon ilovasi orqali boshlangan o‘limli o‘yin hayot-mamot kurashiga aylanadi.",
+    "popularity": 7,
+    "year": 2020,
+    "facts": [
+      "Zamonaviy survival syujet.",
+      "Qattiq jang sahnalari.",
+      "Psixologik bosim kuchli."
+    ]
+  },
+  {
+    "name": "Past Belgili Qudratli Donishmand",
+    "genre": ["fantastika", "sarguzasht"],
+    "desc": "Donishmand qayta tug‘ilib, sehr tizimidagi kamchiliklarni tuzatishga kirishadi.",
+    "popularity": 6,
+    "year": 2022,
+    "facts": [
+      "Qayta tug‘ilish mavzusi.",
+      "Klassik isekai uslub.",
+      "Sehrli janglar ko‘p."
+    ]
+  },
+  {
+    "name": "Olti Barg Qahramonlari",
+    "genre": ["fantastika", "jangari", "drama"],
+    "desc": "Dunyo halokatiga qarshi tanlangan oltita qahramon orasida xoin bor.",
+    "popularity": 7,
+    "year": 2015,
+    "facts": [
+      "Sirli syujet.",
+      "Kim xoin ekani markazda.",
+      "Fantasy detektiv elementlar."
+    ]
+  },
+  {
+    "name": "Sharlota",
+    "genre": ["drama", "fantastika"],
+    "desc": "Maxsus qobiliyatli o‘smirlar ularni yo‘qotishdan oldin nazorat qilinadi.",
+    "popularity": 8,
+    "year": 2015,
+    "facts": [
+      "Jun Maeda asari.",
+      "Emotsional syujet.",
+      "Kutilmagan burilishlar."
+    ]
+  },
+  {
+    "name": "Akudama Drive",
+    "genre": ["jangari", "triller", "kiberpank"],
+    "desc": "Jinoyatchilar guruhi futuristik shaharda halokatli topshiriqqa jalb qilinadi.",
+    "popularity": 8,
+    "year": 2020,
+    "facts": [
+      "Neon kiberpank uslubi.",
+      "Tezkor harakat.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Meni Qahramonlik Akademiyam",
+    "genre": ["jangari", "fantastika"],
+    "desc": "Qobiliyatsiz bola superqahramonlar maktabida eng kuchliga aylanishni xohlaydi.",
+    "popularity": 9,
+    "year": 2016,
+    "facts": [
+      "Superqahramon mavzusi.",
+      "Studio Bones ishlagan.",
+      "Motivatsion syujet."
+    ]
+  },
+  {
+    "name": "Hukmdor",
+    "genre": ["fantastika", "isekai", "jangari"],
+    "desc": "O‘yin dunyosida qolib ketgan sehrgar o‘z imperiyasini quradi.",
+    "popularity": 8,
+    "year": 2015,
+    "facts": [
+      "Overlord nomi bilan mashhur.",
+      "Qorong‘i qahramon obrazi.",
+      "Strategiya muhim."
+    ]
+  },
+  {
+    "name": "Nafis So‘zlar Bog‘i",
+    "genre": ["romantika", "drama"],
+    "desc": "Yomg‘irli bog‘da uchrashgan ikki qalb hayotiy bog‘liqlik topadi.",
+    "popularity": 8,
+    "year": 2013,
+    "facts": [
+      "Makoto Shinkai filmi.",
+      "Vizual go‘zallik.",
+      "Qisqa lekin chuqur."
+    ]
+  },
+  {
+    "name": "Fuuto Detektivlari",
+    "genre": ["detektiv", "jangari"],
+    "desc": "Ikki detektiv shaharni g‘ayritabiiy jinoyatlardan himoya qiladi.",
+    "popularity": 7,
+    "year": 2022,
+    "facts": [
+      "Kamen Rider olamiga bog‘liq.",
+      "Detektiv syujet.",
+      "Zamonaviy uslub."
+    ]
+  },
+  
+  {
+    "name": "Yoz Vaqti",
+    "genre": ["drama", "romantika", "fantastika"],
+    "desc": "Yozgi ta’til paytida boshlangan voqealar yoshlar hayotini butunlay o‘zgartiradi.",
+    "popularity": 7,
+    "year": 2022,
+    "facts": [
+      "Sir va drama uyg‘un.",
+      "Vaqt bilan bog‘liq elementlar bor.",
+      "Atmosferasi kuchli."
+    ]
+  },
+  {
+    "name": "Yetti O‘lim Gunohlari",
+    "genre": ["fantastika", "jangari", "sarguzasht"],
+    "desc": "Qirollikni saqlab qolish uchun afsonaviy yetti jangchi yana birlashadi.",
+    "popularity": 9,
+    "year": 2014,
+    "facts": [
+      "Seven Deadly Sins nomi bilan mashhur.",
+      "Sehr va ritsarlar mavzusi.",
+      "Mashhur shounen anime."
+    ]
+  },
+  {
+    "name": "Aprel Yolg‘oni",
+    "genre": ["drama", "romantika", "musiqa"],
+    "desc": "Iqtidorli pianinochi o‘tmish travmalarini musiqachi qiz orqali yengadi.",
+    "popularity": 9,
+    "year": 2014,
+    "facts": [
+      "Juda ta’sirli drama.",
+      "Musiqa markazda.",
+      "Ko‘plarni yig‘latgan."
+    ]
+  },
+  {
+    "name": "Ko‘k Zindon",
+    "genre": ["sport", "drama"],
+    "desc": "Eng yaxshi hujumchini yaratish uchun yosh futbolchilar shafqatsiz tanlovdan o‘tadi.",
+    "popularity": 9,
+    "year": 2022,
+    "facts": [
+      "Blue Lock nomi bilan mashhur.",
+      "Raqobat juda keskin.",
+      "Psixologik bosim kuchli."
+    ]
+  },
+  {
+    "name": "Platina Yakun",
+    "genre": ["fantastika", "psixologik", "drama"],
+    "desc": "Oddiy yigit farishta orqali xudo tanlash o‘yiniga tushib qoladi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Death Note mualliflaridan.",
+      "Falsafiy savollar ko‘p.",
+      "Qorong‘i atmosfera."
+    ]
+  },
+  {
+    "name": "Soyada Ko‘tarilish",
+    "genre": ["fantastika", "isekai", "jangari"],
+    "desc": "Qahramon soyada turib, butun dunyoni boshqaruvchi kuchga aylanadi.",
+    "popularity": 9,
+    "year": 2022,
+    "facts": [
+      "Eminence in Shadow nomi bilan mashhur.",
+      "Qorong‘i komediya.",
+      "Juda mashhur isekai."
+    ]
+  },
+  {
+    "name": "91 Kun",
+    "genre": ["drama", "jinoyat"],
+    "desc": "Mafiya oilalari orasidagi qasos hikoyasi spirtli ichimliklar davrida kechadi.",
+    "popularity": 8,
+    "year": 2016,
+    "facts": [
+      "Realistik syujet.",
+      "Qasos markazda.",
+      "Qorong‘i drama."
+    ]
+  },
+  {
+    "name": "Turar-Joy Majmuasi C",
+    "genre": ["qo‘rqinchli", "sirli"],
+    "desc": "Oddiy turar-joy majmuasida dahshatli hodisalar yuz bera boshlaydi.",
+    "popularity": 6,
+    "year": 2022,
+    "facts": [
+      "Original horror anime.",
+      "Sirli atmosfera.",
+      "Qisqa seriyali."
+    ]
+  },
+  {
+    "name": "Yurar Qal’a",
+    "genre": ["fantastika", "sarguzasht", "romantika"],
+    "desc": "La’natlangan qiz va sehrgar Howl yuruvchi qal’ada sarguzasht kechiradi.",
+    "popularity": 10,
+    "year": 2004,
+    "facts": [
+      "Studio Ghibli filmi.",
+      "Hayao Miyazaki asari.",
+      "Sehrli muhit."
+    ]
+  },
+  {
+    "name": "Yuqori Maktab Hukmdori",
+    "genre": ["jangari", "fantastika", "fanservis"],
+    "desc": "Oddiy yigit iblislar va farishtalar o‘rtasidagi urushga tortiladi.",
+    "popularity": 8,
+    "year": 2012,
+    "facts": [
+      "High School DxD nomi bilan mashhur.",
+      "Jang va fanservis uyg‘un.",
+      "Keng auditoriyaga ega."
+    ]
+  },
+  
+  {
+    "name": "Qora Chaqiruvchi",
+    "genre": ["fantastika", "isekai", "jangari"],
+    "desc": "Yangi dunyoga chaqirilgan yigit kuchli mavjudotlarni bo‘ysundirish qobiliyatiga ega bo‘ladi.",
+    "popularity": 7,
+    "year": 2022,
+    "facts": [
+      "Isekai janriga mansub.",
+      "Janglar ko‘p.",
+      "Qahramon juda kuchli."
+    ]
+  },
+  {
+    "name": "O‘lim Sahnasi",
+    "genre": ["fantastika", "jangari"],
+    "desc": "Mashhur aktyor boshqa dunyoga o‘lim sahnalarini ijro etuvchi qahramon sifatida tushib qoladi.",
+    "popularity": 6,
+    "year": 2024,
+    "facts": [
+      "Original g‘oya.",
+      "Qahramon noodatiy.",
+      "Teatral uslub."
+    ]
+  },
+  {
+    "name": "Yoqolgan Parilar",
+    "genre": ["fantastika", "sarguzasht"],
+    "desc": "Sehrli mavjudotlar bilan bog‘liq sirli voqealar ochila boshlaydi.",
+    "popularity": 6,
+    "year": 2020,
+    "facts": [
+      "Fantasy muhit.",
+      "Sirli dunyo.",
+      "Yengil syujet."
+    ]
+  },
+  {
+    "name": "Deka Dens",
+    "genre": ["fantastika", "jangari"],
+    "desc": "Odamlar maxluqlarga qarshi ulkan harakatlanuvchi qal’ada yashaydi.",
+    "popularity": 7,
+    "year": 2020,
+    "facts": [
+      "Original anime.",
+      "Post-apokaliptik muhit.",
+      "Vizual dizayn o‘ziga xos."
+    ]
+  },
+  {
+    "name": "Ajoyib Dunyo",
+    "genre": ["fantastika", "romantika"],
+    "desc": "Texnologiya yordamida his-tuyg‘ularni yozib olish mumkin bo‘lgan kelajak hikoyasi.",
+    "popularity": 7,
+    "year": 2020,
+    "facts": [
+      "Hello World nomi bilan mashhur.",
+      "Romantik syujet.",
+      "Falsafiy savollar."
+    ]
+  },
+  {
+    "name": "Yoshlik Ifori",
+    "genre": ["drama", "romantika"],
+    "desc": "Yoshlikdagi his-tuyg‘ular va hayotiy tanlovlar haqida sokin hikoya.",
+    "popularity": 7,
+    "year": 2011,
+    "facts": [
+      "Realistik drama.",
+      "Hayotiy syujet.",
+      "Emotsional ohang."
+    ]
+  },
+  {
+    "name": "Meni Qilich Bo‘lib Qayta Tug‘ilishim Haqida",
+    "genre": ["fantastika", "isekai", "jangari"],
+    "desc": "Yigit boshqa dunyoda sehrli qilich sifatida qayta tug‘iladi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Noodatiy isekai.",
+      "Qilich va janglar.",
+      "Yengil tomosha."
+    ]
+  },
+  {
+    "name": "Teskari Patema",
+    "genre": ["fantastika", "sarguzasht"],
+    "desc": "Og‘irlik kuchi teskari bo‘lgan dunyoda ikki yosh bir-birini topadi.",
+    "popularity": 8,
+    "year": 2013,
+    "facts": [
+      "Original film.",
+      "Fizika bilan o‘yin.",
+      "Romantik sarguzasht."
+    ]
+  },
+  {
+    "name": "Soniyasiga 5 Santimetr",
+    "genre": ["drama", "romantika"],
+    "desc": "Masofa va vaqt sevgi tuyg‘ularini asta-sekin uzoqlashtiradi.",
+    "popularity": 9,
+    "year": 2007,
+    "facts": [
+      "Makoto Shinkai filmi.",
+      "Haqiqiy hayotga yaqin.",
+      "Juda ta’sirli."
+    ]
+  },
+  {
+    "name": "Qotil Akame",
+    "genre": ["jangari", "fantastika", "drama"],
+    "desc": "Yollanma qotillar zulmga qarshi yashirin kurash olib boradi.",
+    "popularity": 8,
+    "year": 2014,
+    "facts": [
+      "Akame ga Kill nomi bilan mashhur.",
+      "Ko‘plab o‘lim sahnalari.",
+      "Qorong‘i syujet."
+    ]
+  },
+
+  {
+    "name": "Ruhlar Olami",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Qiz sehrli ruhlar dunyosiga tushib qolib, ota-onasini qutqarishga harakat qiladi.",
+    "popularity": 10,
+    "year": 2001,
+    "facts": [
+      "Spirited Away nomi bilan mashhur.",
+      "Studio Ghibli durdonasi.",
+      "Oskar mukofoti olgan."
+    ]
+  },
+  {
+    "name": "O‘rmonda Tilla Qo‘ng‘izlar Yaltiraydi",
+    "genre": ["drama", "urush"],
+    "desc": "Urush davrida aka-uka va opa-singilning omon qolish uchun kurashi.",
+    "popularity": 10,
+    "year": 1988,
+    "facts": [
+      "Yonar Qo‘ng‘izlar Qabri bilan mashhur.",
+      "Juda og‘ir drama.",
+      "Studio Ghibli filmi."
+    ]
+  },
+  {
+    "name": "Yuqori Karta",
+    "genre": ["jangari", "fantastika"],
+    "desc": "Maxsus kuch beruvchi kartalar uchun yashirin janglar boshlanadi.",
+    "popularity": 7,
+    "year": 2023,
+    "facts": [
+      "High Card nomi bilan mashhur.",
+      "Kartalar asosidagi janglar.",
+      "Zamonaviy uslub."
+    ]
+  },
+  {
+    "name": "Tabiat Farzandi",
+    "genre": ["fantastika", "romantika", "drama"],
+    "desc": "Ob-havoni boshqara oladigan qiz va oddiy yigit taqdiri tutashadi.",
+    "popularity": 9,
+    "year": 2019,
+    "facts": [
+      "Weathering With You nomi bilan mashhur.",
+      "Makoto Shinkai filmi.",
+      "Vizual effektlar kuchli."
+    ]
+  },
+  {
+    "name": "Chegara Ortida",
+    "genre": ["fantastika", "jangari", "drama"],
+    "desc": "Oddiy bola va yarim-maxluq qizning xavfli munosabati haqida hikoya.",
+    "popularity": 8,
+    "year": 2013,
+    "facts": [
+      "Beyond the Boundary nomi bilan mashhur.",
+      "Studio Kyoto Animation.",
+      "Emotsional final."
+    ]
+  },
+  {
+    "name": "Yaponiya Falokati",
+    "genre": ["drama", "falokat"],
+    "desc": "Katta zilzila va halokatdan keyingi Yaponiya aholisi hayoti.",
+    "popularity": 8,
+    "year": 2020,
+    "facts": [
+      "Japan Sinks 2020 nomi bilan mashhur.",
+      "Realistik falokat tasviri.",
+      "Psixologik bosim kuchli."
+    ]
+  },
+  {
+    "name": "Arte",
+    "genre": ["drama", "tarixiy"],
+    "desc": "Rassom bo‘lishni orzu qilgan qiz erkaklar hukmron jamiyatda kurashadi.",
+    "popularity": 7,
+    "year": 2020,
+    "facts": [
+      "Renessans davri tasviri.",
+      "Motivatsion hikoya.",
+      "Ayol qahramon markazda."
+    ]
+  },
+  {
+    "name": "Sehr va Mushaklar",
+    "genre": ["komediya", "fantastika", "jangari"],
+    "desc": "Sehrli dunyoda sehrsiz yigit faqat mushaklari bilan hammani hayratda qoldiradi.",
+    "popularity": 9,
+    "year": 2023,
+    "facts": [
+      "Mashle nomi bilan mashhur.",
+      "Sehr + kuch parodiyasi.",
+      "Juda kulgili."
+    ]
+  },
+  {
+    "name": "Jahannam Jannati",
+    "genre": ["jangari", "fantastika", "qo‘rqinchli"],
+    "desc": "Mahbuslar o‘lmaslik sirini topish uchun o‘lim oroliga yuboriladi.",
+    "popularity": 9,
+    "year": 2023,
+    "facts": [
+      "Hell’s Paradise nomi bilan mashhur.",
+      "MAPPA studiyasi.",
+      "Qonli va jiddiy syujet."
+    ]
+  },
+  {
+    "name": "Seni Oshqozon Ostim Bezini Yemoqchiman",
+    "genre": ["drama", "romantika"],
+    "desc": "O‘limga mahkum qiz va sokin yigit o‘rtasidagi qisqa, ammo chuqur do‘stlik.",
+    "popularity": 9,
+    "year": 2018,
+    "facts": [
+      "Juda ta’sirli hikoya.",
+      "Ko‘plarni yig‘latgan.",
+      "Hayot qadri haqida."
+    ]
+  },
+  
+  {
+    "name": "Bolakay, Ko‘rsichqon, Tulki va Ot",
+    "genre": ["fantastika", "sarguzasht", "komediya"],
+    "desc": "To‘rt hayvon do‘stlik va sarguzasht orqali dunyoni o‘rganadi.",
+    "popularity": 7,
+    "year": 2022,
+    "facts": [
+      "Kulgili va ma’naviy hikoya.",
+      "Yosh auditoriya uchun.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Ayumu Baribir Yaqinlashadi",
+    "genre": ["romantika", "drama", "komediya"],
+    "desc": "Ikki o‘smir orasidagi romantik voqealar asta-sekin rivojlanadi.",
+    "popularity": 8,
+    "year": 2019,
+    "facts": [
+      "O‘rta maktab muhiti.",
+      "Kichik romantik burilishlar.",
+      "Yengil va kulgili syujet."
+    ]
+  },
+  {
+    "name": "Orient",
+    "genre": ["jangari", "fantastika", "drama"],
+    "desc": "Dahshatli yirtqichlarga qarshi kurashuvchi qahramonlar tarixiy Yaponiyada sarguzasht qiladi.",
+    "popularity": 7,
+    "year": 2022,
+    "facts": [
+      "Yangi shounen anime.",
+      "Jang sahnalari kuchli.",
+      "Tarixiy motivlar."
+    ]
+  },
+  {
+    "name": "Insoniyatga Ishonmaydigan Sarguzashtchilar Dunyoni Qutqaradi",
+    "genre": ["fantastika", "sarguzasht", "komediya"],
+    "desc": "Guruh sarguzashtchilar dunyoni yovuzlikdan qutqaradi, lekin ular ishonch qadriga ega emas.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Original anime.",
+      "Humor va sarguzasht uyg‘un.",
+      "Oddiy qahramonlar markazda."
+    ]
+  },
+  {
+    "name": "Lideyl Dunyosi",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Qahramonlar boshqariluvchi dunyoda o‘z yo‘lini topadi.",
+    "popularity": 7,
+    "year": 2019,
+    "facts": [
+      "Fantasy muhit.",
+      "Jang va drama uyg‘un.",
+      "Original syujet."
+    ]
+  },
+  {
+    "name": "Kikining Eltuv Xizmati",
+    "genre": ["fantastika", "romantika", "sarguzasht"],
+    "desc": "Yosh sehrgar qiz uchib ketadigan xizmat orqali sarguzashtlar boshdan kechiradi.",
+    "popularity": 10,
+    "year": 1989,
+    "facts": [
+      "Studio Ghibli filmi.",
+      "Oskar mukofotiga nomzod.",
+      "Mashhur klassik."
+    ]
+  },
+  {
+    "name": "Salom Dunyo",
+    "genre": ["romantika", "sarguzasht", "fantastika"],
+    "desc": "Virtual dunyo va haqiqiy dunyo orasida yoshlar muhabbat va sarguzasht topadi.",
+    "popularity": 8,
+    "year": 2019,
+    "facts": [
+      "Virtual realistik syujet.",
+      "Original hikoya.",
+      "Yoshlar orasida mashhur."
+    ]
+  },
+  {
+    "name": "Mabud Minorasi",
+    "genre": ["fantastika", "drama", "jangari"],
+    "desc": "Qahramon sirli minoraga kirib, o'tmish va kelajak sirlari bilan yuzlashadi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Original anime.",
+      "Sirli muhit va drama.",
+      "Vizual dizayn kuchli."
+    ]
+  },
+  {
+    "name": "So‘nggi Serafim",
+    "genre": ["fantastika", "jangari", "drama"],
+    "desc": "Virus dunyoni vayron qilgach, qahramonlar insoniyatni qutqarish uchun kurashadi.",
+    "popularity": 8,
+    "year": 2015,
+    "facts": [
+      "Post-apokaliptik anime.",
+      "Jang va strategiya markazda.",
+      "Studio Wit ishlagan."
+    ]
+  },
+  {
+    "name": "Xalqa Yilnomalari",
+    "genre": ["fantastika", "sarguzasht"],
+    "desc": "Sehrli dunyodagi sarguzashtlar va sirli hodisalar yoshlarni sinovdan o‘tkazadi.",
+    "popularity": 6,
+    "year": 2020,
+    "facts": [
+      "Original hikoya.",
+      "Fantasy va sarguzasht uyg‘un.",
+      "Vizual dizayn o‘ziga xos."
+    ]
+  },
+  {
+    "name": "Bu Ajoyib Dunyoni Portlashlar Bilan Yoritib",
+    "genre": ["fantastika", "komediya", "sarguzasht"],
+    "desc": "Qahramonlar oddiy dunyoni kulgili portlashlar orqali qutqaradi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Konosuba nomi bilan mashhur.",
+      "Kulgili syujet.",
+      "Fanservis va sarguzasht uyg‘un."
+    ]
+  },
+  {
+    "name": "Qotil Seven",
+    "genre": ["jangari", "triller"],
+    "desc": "Yosh qotil maxfiy topshiriqlarni bajargach, o‘tmish bilan yuzlashadi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Original anime.",
+      "Qattiq janglar.",
+      "Psixologik burilishlar."
+    ]
+  },
+  {
+    "name": "Yolmog‘izgar: Bo‘rining Kabusi",
+    "genre": ["fantastika", "jangari", "drama"],
+    "desc": "Qahramon bo‘rining shaklida bo‘lish orqali yovuz kuchlarga qarshi kurashadi.",
+    "popularity": 7,
+    "year": 2023,
+    "facts": [
+      "Original anime.",
+      "Fantastika va jang uyg‘un.",
+      "Vizual effektlar kuchli."
+    ]
+  },
+  {
+    "name": "Qo‘g‘irchoqlar Sirki",
+    "genre": ["fantastika", "triller", "jangari"],
+    "desc": "Sirli qo‘g‘irchoqlar sirini ochish uchun qahramonlar sarguzasht qiladi.",
+    "popularity": 7,
+    "year": 2022,
+    "facts": [
+      "Original anime.",
+      "Sir va sarguzasht uyg‘un.",
+      "Qo‘g‘irchoqlar motivi."
+    ]
+  },
+  {
+    "name": "Kamalak",
+    "genre": ["romantika", "drama", "fantastika"],
+    "desc": "Yoshlar sehrli kamalak ostida sirli va romantik voqealarni boshdan kechiradi.",
+    "popularity": 7,
+    "year": 2020,
+    "facts": [
+      "Original hikoya.",
+      "Romantik syujet.",
+      "Yoshlar orasida mashhur."
+    ]
+  },
+  {
+    "name": "Parazit: Hayot Saboqlari",
+    "genre": ["jangari", "fantastika", "triller"],
+    "desc": "Olamni bosib olgan parazitlar insoniyatni tahdid qiladi, qahramonlar kurashadi.",
+    "popularity": 9,
+    "year": 2014,
+    "facts": [
+      "Parasyte nomi bilan mashhur.",
+      "Psixologik elementlar.",
+      "Jang va strategiya markazda."
+    ]
+  },
+  {
+    "name": "Qahramonning Qaytishi",
+    "genre": ["jangari", "fantastika", "sarguzasht"],
+    "desc": "O‘tmishda g‘alaba qozongan qahramon qaytib kelib, dunyoni qutqaradi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Original anime.",
+      "Jang va strategiya uyg‘un.",
+      "Qahramon markazda."
+    ]
+  },
+  {
+    "name": "Ochko‘z Berserk",
+    "genre": ["jangari", "fantastika", "triller"],
+    "desc": "Berserk dunyosida qahramon o‘z qasosini olish uchun kurashadi.",
+    "popularity": 9,
+    "year": 1997,
+    "facts": [
+      "Kentaro Miura mangasi asosida.",
+      "Qorong‘i va dramatik.",
+      "Mashhur shounen klassik."
+    ]
+  },
+  {
+    "name": "Elita Sinfi",
+    "genre": ["drama", "sarguzasht", "triller"],
+    "desc": "Eng boy va aqlli o‘smirlar maktabidagi sirlar va intriga markazida.",
+    "popularity": 9,
+    "year": 2017,
+    "facts": [
+      "Classroom of the Elite nomi bilan mashhur.",
+      "Psixologik o‘yinlar.",
+      "Intriga markazda."
+    ]
+  },
+  {
+    "name": "Lookism",
+    "genre": ["drama", "sarguzasht"],
+    "desc": "Ikki turli tana orasida yashovchi bola ijtimoiy hayot sirlarini o‘rganadi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Webtoon asosida.",
+      "Ijtimoiy mavzu.",
+      "Emotsional hikoya."
+    ]
+  },
+  {
+    "name": "Shilliq Sifatida Qayta Tug‘ilganim Haqida",
+    "genre": ["fantastika", "komediya", "sarguzasht"],
+    "desc": "Yigit shilliqqa aylanib, boshqa dunyoda sarguzashtlarni boshdan kechiradi.",
+    "popularity": 9,
+    "year": 2022,
+    "facts": [
+      "Slime Isekai nomi bilan mashhur.",
+      "Kulgu va sarguzasht uyg‘un.",
+      "Yengil tomosha."
+    ]
+  },
+  {
+    "name": "Qalqon Qahramoni",
+    "genre": ["fantastika", "isekai", "jangari"],
+    "desc": "Qahramon qalqon kuchi bilan dunyoni tahdiddan himoya qiladi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Original isekai.",
+      "Defensive ability asosiy.",
+      "Jang va strategiya."
+    ]
+  },
+  {
+    "name": "Sen Uchun O‘lmas",
+    "genre": ["romantika", "drama", "fantastika"],
+    "desc": "Sevgi va o‘lim o‘rtasidagi kurash, qahramonlar bir-birini saqlashga harakat qiladi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Original hikoya.",
+      "Romantik drama.",
+      "Emotsional final."
+    ]
+  },
+  {
+    "name": "Po‘lat Qal’adagi Kabaneri",
+    "genre": ["fantastika", "jangari", "drama"],
+    "desc": "Zombi kabi mavjudotlar istilosi davrida qal’a ichida odamlar tirik qolish uchun kurashadi.",
+    "popularity": 9,
+    "year": 2016,
+    "facts": [
+      "Studio Wit ishlagan.",
+      "Steampunk muhit.",
+      "Jang va drama uyg‘un."
+    ]
+  },
+  {
+    "name": "Uysiz Ma’bud",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Qahramon sirli dunyo bo‘ylab sarguzasht qiluvchi yolg‘iz mavjudot.",
+    "popularity": 7,
+    "year": 2022,
+    "facts": [
+      "Original anime.",
+      "Sarguzasht va drama uyg‘un.",
+      "Vizual dizayn kuchli."
+    ]
+  },
+  {
+    "name": "Takt Opus: Qismat",
+    "genre": ["fantastika", "musiqa", "drama"],
+    "desc": "Musiqa orqali yovuz kuchlarni yo‘q qiluvchi qahramon hikoyasi.",
+    "popularity": 8,
+    "year": 2023,
+    "facts": [
+      "Musiqa va jang uyg‘un.",
+      "Original anime.",
+      "Vizual go‘zallik."
+    ]
+  },
+  {
+    "name": "O‘lim Farishtasi",
+    "genre": ["jangari", "fantastika", "triller"],
+    "desc": "Maxfiy tashkilot o‘lim farishtasi bilan yovuzlarni yo‘q qiladi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Original anime.",
+      "Jang va triller uyg‘un.",
+      "Qahramon markazda."
+    ]
+  },
+
+  {
+    "name": "Mening qizcham nafaqat go'zal",
+    "genre": ["romantika", "drama"],
+    "desc": "Yigit va qizning romantik hayoti va sarguzashtlari haqida hikoya.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Sevimli romantik hikoya.",
+      "Kichik burilishlar ko‘p.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Yulduz Farzandi",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Yulduzdan kelgan farzand va uning sarguzashtlari haqida hikoya.",
+    "popularity": 8,
+    "year": 2020,
+    "facts": [
+      "Fantasy elementlari mavjud.",
+      "Yoshlar orasida mashhur.",
+      "Sirli va qiziqarli syujet."
+    ]
+  },
+  {
+    "name": "Kamonohashi Ron: Telba detektiv",
+    "genre": ["jangari", "detektiv", "komediya"],
+    "desc": "Kutilmagan hodisalarni ochadigan yosh detektiv hikoyasi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Detektiv syujet.",
+      "Kulgu va sir uyg‘un.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Xarobalar qirolligi",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Qahramonlar xarobalar orasida yangi imperiya yaratish uchun kurashadi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Fantasy muhit.",
+      "Strategiya va janglar markazda.",
+      "Vizual dizayn kuchli."
+    ]
+  },
+  {
+    "name": "Shangri-la chegarasi",
+    "genre": ["fantastika", "sarguzasht"],
+    "desc": "Sirli shahar va uning chegaralaridagi sarguzashtlar hikoyasi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Original anime.",
+      "Sirli va romantik elementlar.",
+      "Vizual jihatdan go‘zal."
+    ]
+  },
+  {
+    "name": "Friren so'ngi manzilga kuzatuvchi",
+    "genre": ["fantastika", "drama", "sarguzasht"],
+    "desc": "Sehrgar qiz Friren do‘stlarini oxirgi manzilga kuzatadi.",
+    "popularity": 9,
+    "year": 2023,
+    "facts": [
+      "Yangi fantasy anime.",
+      "Drama va sarguzasht uyg‘un.",
+      "Asosiy qahramon qiz markazda."
+    ]
+  },
+  {
+    "name": "Omadsiz tirik Murda",
+    "genre": ["fantastika", "komediya", "sarguzasht"],
+    "desc": "Tirik murda bo‘lgan qahramon dunyoni o‘zgartirishga harakat qiladi.",
+    "popularity": 7,
+    "year": 2022,
+    "facts": [
+      "Kulgu va sarguzasht uyg‘un.",
+      "Original hikoya.",
+      "Yosh auditoriya uchun."
+    ]
+  },
+  {
+    "name": "Migi va Dali",
+    "genre": ["fantastika", "drama"],
+    "desc": "Ikki mavjudot orasidagi sirli do‘stlik va sarguzashtlar.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Sirli va qiziqarli hikoya.",
+      "Drama va sarguzasht uyg‘un.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Quvib O'tish",
+    "genre": ["jangari", "fantastika"],
+    "desc": "Qahramon tezlik va kuch bilan yovuzlikka qarshi kurashadi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Jang sahnalari kuchli.",
+      "Original anime.",
+      "Syujet tez rivojlanadi."
+    ]
+  },
+  {
+    "name": "Daygo': o't o'chiruvchi",
+    "genre": ["jangari", "fantastika"],
+    "desc": "O‘t o‘chirish bo‘limida ishlaydigan qahramon yovuz kuchlarga qarshi kurashadi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Original hikoya.",
+      "Jang va strategiya markazda.",
+      "Fanlar orasida mashhur."
+    ]
+  },
+  
+  {
+    "name": "Omadsizning qayta tug'ilishi",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Omadsiz qahramon yangi dunyoda qayta tug‘ilib, kuchli bo‘lish yo‘lida sarguzashtlarga duch keladi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Original isekai anime.",
+      "Drama va sarguzasht uyg‘un.",
+      "Syujet burilishlari ko‘p."
+    ]
+  },
+  {
+    "name": "Besh Kelin",
+    "genre": ["romantika", "drama"],
+    "desc": "Besh kelinning hayoti va muhabbat sarguzashtlari haqida hikoya.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik elementlar mavjud.",
+      "Drama va hissiyotlar markazda.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Franksdagi Sevgilim",
+    "genre": ["romantika", "drama"],
+    "desc": "Sevgi va tushunmovchiliklar orasida yashovchi yoshlar hikoyasi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va hissiy anime.",
+      "Vizual jihatdan chiroyli.",
+      "Original hikoya."
+    ]
+  },
+  {
+    "name": "Bu chinni qiz sevib qoldi",
+    "genre": ["romantika", "drama", "komediya"],
+    "desc": "Oddiy qizning sevgisi va hayoti kulgili vaziyatlar bilan to‘la.",
+    "popularity": 7,
+    "year": 2020,
+    "facts": [
+      "Komediya elementlari bor.",
+      "Romantik hikoya.",
+      "Yosh auditoriya uchun."
+    ]
+  },
+  {
+    "name": "Quyon qiz",
+    "genre": ["fantastika", "komediya", "drama"],
+    "desc": "Quyon shaklida bo‘lgan qiz va uning hayoti haqida qiziqarli sarguzashtlar.",
+    "popularity": 7,
+    "year": 2020,
+    "facts": [
+      "Fantastika va komediya uyg‘un.",
+      "Original anime.",
+      "Vizual jihatdan chiroyli."
+    ]
+  },
+  {
+    "name": "Meni oyga olib ket",
+    "genre": ["fantastika", "romantika"],
+    "desc": "Qahramon va qiz sirli oy sayohatiga chiqadi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Fantastika elementlari kuchli.",
+      "Romantik motivlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Tungi Boyqushlar Kuyi",
+    "genre": ["drama", "fantastika"],
+    "desc": "Qahramon tunda sirli voqealar bilan yuzlashadi.",
+    "popularity": 7,
+    "year": 2020,
+    "facts": [
+      "Drama va sarguzasht uyg‘un.",
+      "Sirli motivlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Dororo",
+    "genre": ["jangari", "fantastika", "drama"],
+    "desc": "Qahramon tanasining qismlarini qaytarish uchun yovuz ruhlarga qarshi kurashadi.",
+    "popularity": 9,
+    "year": 2019,
+    "facts": [
+      "Osamu Tezuka mangasi asosida.",
+      "Original anime remeyki.",
+      "Jang va drama markazda."
+    ]
+  },
+  {
+    "name": "Arifureta: Dunyodagi eng kuchli hunarmand",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Yosh qahramon yangi dunyoda eng kuchli bo‘lish uchun kurashadi.",
+    "popularity": 8,
+    "year": 2019,
+    "facts": [
+      "Isekai janri.",
+      "Sarguzasht va jang markazda.",
+      "Fanlar orasida mashhur."
+    ]
+  },
+  {
+    "name": "Ziyofatchi Kunmin",
+    "genre": ["komediya", "romantika", "drama"],
+    "desc": "Qahramon ziyofatlar orqali turli kulgili vaziyatlarga duch keladi.",
+    "popularity": 7,
+    "year": 2020,
+    "facts": [
+      "Romantik va komediya elementlari mavjud.",
+      "Original anime.",
+      "Vizual jihatdan yoqimli."
+    ]
+  },
+  
+  {
+    "name": "Another",
+    "genre": ["jangari", "sirli", "drama"],
+    "desc": "Maktabdagi sirli hodisalar va o‘quvchilar orasidagi o‘lim voqealari haqida hikoya.",
+    "popularity": 9,
+    "year": 2012,
+    "facts": [
+      "Horror va sirli motivlar mavjud.",
+      "Yoshlar orasida mashhur.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Velzevul",
+    "genre": ["fantastika", "jangari", "drama"],
+    "desc": "Qahramon velzevul kuchlari bilan dunyoni tahdiddan saqlashga harakat qiladi.",
+    "popularity": 8,
+    "year": 2019,
+    "facts": [
+      "Fantasy va jang markazda.",
+      "Original anime.",
+      "Vizual jihatdan kuchli."
+    ]
+  },
+  {
+    "name": "Donishmandning qayta tug'ilishi",
+    "genre": ["fantastika", "drama", "sarguzasht"],
+    "desc": "Donishmand qahramon yangi dunyoda o‘z bilim va kuchini oshirish uchun qayta tug‘iladi.",
+    "popularity": 8,
+    "year": 2020,
+    "facts": [
+      "Isekai janri.",
+      "Syujet ilmiy va fantastik elementlarga boy.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Qo'shni Farishta",
+    "genre": ["romantika", "fantastika", "drama"],
+    "desc": "Qahramon qo‘shnisidagi farishta bilan hayot va sarguzashtlarni boshdan kechiradi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va sarguzasht uyg‘un.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Gintama",
+    "genre": ["komediya", "jangari", "sarguzasht"],
+    "desc": "Edo davridagi samuraylar va yovuzlikka qarshi kurashuvchi qahramon hikoyasi.",
+    "popularity": 10,
+    "year": 2006,
+    "facts": [
+      "Sorachi Hideaki mangasi asosida.",
+      "Kulgu va jang uyg‘un.",
+      "Mashhur va uzoq davom etgan anime."
+    ]
+  },
+  {
+    "name": "Suzume: Eshiklarni Qulflovchi Kalit",
+    "genre": ["fantastika", "drama", "sarguzasht"],
+    "desc": "Qahramon sirli eshiklar va hodisalar orqali dunyoni saqlashga harakat qiladi.",
+    "popularity": 9,
+    "year": 2022,
+    "facts": [
+      "Makoto Shinkai filmi.",
+      "Fantastik va sarguzasht uyg‘un.",
+      "Vizual jihatdan ajoyib."
+    ]
+  },
+  {
+    "name": "Yolg'izlikda daraja ko'tarish",
+    "genre": ["fantastika", "drama", "sarguzasht"],
+    "desc": "Qahramon yolg‘iz o‘z kuchini oshirib, yangi darajaga ko‘tariladi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Isekai janri.",
+      "Drama va sarguzasht uyg‘un.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Do'stlar O'yini",
+    "genre": ["jangari", "sarguzasht", "drama"],
+    "desc": "Qahramon va uning do‘stlari maxfiy o‘yin orqali sarguzashtlarga kirishadi.",
+    "popularity": 7,
+    "year": 2020,
+    "facts": [
+      "Strategiya va jang markazda.",
+      "Original anime.",
+      "Yoshlar orasida mashhur."
+    ]
+  },
+  {
+    "name": "Maktab tomonidan tan olinmagan iblislar hukumdori",
+    "genre": ["fantastika", "jangari", "komediya"],
+    "desc": "Iblislar maktabi tomonidan tan olinmagan qahramon dunyoni qutqarish uchun kurashadi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Isekai va komediya uyg‘un.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Jannat Sarobi",
+    "genre": ["romantika", "drama"],
+    "desc": "Qahramon sevgi va sirli hodisalar orasida o‘z yo‘lini topadi.",
+    "popularity": 7,
+    "year": 2020,
+    "facts": [
+      "Romantik motivlar mavjud.",
+      "Drama va sirli sarguzasht uyg‘un.",
+      "Original anime."
+    ]
+  },
+  
+  {
+    "name": "Tog'amning qayta tug'ilishi",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Tog‘a yangi dunyoda qayta tug‘ilib, sarguzasht va kuchli kurashlar orqali o‘z yo‘lini topadi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Isekai janri.",
+      "Sarguzasht va drama uyg‘un.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Arrietty: Yashirin Dunyo",
+    "genre": ["fantastika", "drama", "sarguzasht"],
+    "desc": "Kichik odamlar yashirin dunyoda yashab, insonlar bilan bo‘lgan aloqalarini boshdan kechiradi.",
+    "popularity": 9,
+    "year": 2010,
+    "facts": [
+      "Studio Ghibli filmi.",
+      "Vizual jihatdan ajoyib.",
+      "Sarguzasht va drama uyg‘un."
+    ]
+  },
+  {
+    "name": "Hyouka",
+    "genre": ["detektiv", "drama", "sarguzasht"],
+    "desc": "Qahramon va do‘stlari maktabdagi sirli voqealarni ochish uchun harakat qiladi.",
+    "popularity": 9,
+    "year": 2012,
+    "facts": [
+      "Mystery va detektiv janr.",
+      "Vizual jihatdan yoqimli.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Joze: Yo'lbars va Baliq",
+    "genre": ["drama", "fantastika", "romantika"],
+    "desc": "Qahramon va sirli baliq qizning hayoti va sevgisi haqida hikoya.",
+    "popularity": 8,
+    "year": 2020,
+    "facts": [
+      "Romantik va dramatik hikoya.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Taqdir: Jang Kechasi",
+    "genre": ["jangari", "fantastika", "drama"],
+    "desc": "Qahramon sirli jang kechasida dunyoni tahdiddan saqlashga harakat qiladi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Jang va sarguzasht markazda.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Bucchigiri?!",
+    "genre": ["komediya", "jangari", "sarguzasht"],
+    "desc": "Qahramon va do‘stlari kulgili sarguzashtlarga duch keladi.",
+    "popularity": 7,
+    "year": 2022,
+    "facts": [
+      "Komediya va jang uyg‘un.",
+      "Original anime.",
+      "Yoshlar orasida mashhur."
+    ]
+  },
+  {
+    "name": "Erased: Men mavjud bo'lmagan shahar",
+    "genre": ["sirli", "drama", "jangari"],
+    "desc": "Qahramon o‘tmishga qaytib, sirli hodisalarni oldini olishga harakat qiladi.",
+    "popularity": 9,
+    "year": 2016,
+    "facts": [
+      "Mystery va drama markazda.",
+      "Original anime.",
+      "Vizual jihatdan kuchli."
+    ]
+  },
+  {
+    "name": "Likoris Rekoil",
+    "genre": ["jangari", "sarguzasht", "drama"],
+    "desc": "Qahramon va uning do‘stlari yovuzlikka qarshi kurashadi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Original anime.",
+      "Jang va sarguzasht markazda.",
+      "Vizual jihatdan yoqimli."
+    ]
+  },
+  {
+    "name": "Komi-san muloqot qila olmaydi",
+    "genre": ["komediya", "romantika", "drama"],
+    "desc": "Komi-san va do‘stlarining maktabdagi kulgili va romantik voqealari.",
+    "popularity": 9,
+    "year": 2021,
+    "facts": [
+      "Komediya va romantik hikoya.",
+      "Original anime.",
+      "Yosh auditoriya orasida mashhur."
+    ]
+  },
+  {
+    "name": "Kaguya xonim: sevgi bu jang",
+    "genre": ["romantika", "komediya", "drama"],
+    "desc": "Ikki talaba bir-birini sevish uchun strategik o‘yinlarda kurashadi.",
+    "popularity": 10,
+    "year": 2019,
+    "facts": [
+      "Romantik komediya markazda.",
+      "Original anime.",
+      "Mashhur va kulgili hikoya."
+    ]
+  },
+  
+  {
+    "name": "Zindonda Qizlar bilan uchrashish yomonmi",
+    "genre": ["romantika", "komediya", "sarguzasht"],
+    "desc": "Qahramon zindonda qizlar bilan uchrashib, kulgili va romantik vaziyatlarga tushadi.",
+    "popularity": 8,
+    "year": 2020,
+    "facts": [
+      "Romantik va komediya uyg‘un.",
+      "Original anime.",
+      "Vizual jihatdan yoqimli."
+    ]
+  },
+  {
+    "name": "Masamune Qasosi",
+    "genre": ["fantastika", "jangari", "drama"],
+    "desc": "Qahramon qasr va unga qarshi yovuz kuchlar bilan kurashadi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Jang va sarguzasht markazda.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Yozgi Hayrlashuv Tuneli",
+    "genre": ["romantika", "drama"],
+    "desc": "Yozgi ta’tilda qahramonlar sevgini va do‘stlikni kashf etadilar.",
+    "popularity": 7,
+    "year": 2020,
+    "facts": [
+      "Romantik motivlar kuchli.",
+      "Drama va hissiyotlar markazda.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Qayta Tug'ilgan Aristokratning misli ko'rilmagan Sarguzashtlari",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Aristokrat yangi dunyoda qayta tug‘ilib, ajoyib sarguzashtlarga duch keladi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Isekai janri.",
+      "Drama va sarguzasht uyg‘un.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Elf rafiqamni qanday sevishim mumkin?!",
+    "genre": ["fantastika", "romantika", "komediya"],
+    "desc": "Qahramon elf rafiqasi bilan romantik va kulgili sarguzashtlarga kiradi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Romantik va fantastik hikoya.",
+      "Komediya elementlari mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "O'lmas Sarguzashtchi",
+    "genre": ["fantastika", "jangari", "drama"],
+    "desc": "Qahramon o‘limga duch kelmasdan sarguzasht va kurashlarda davom etadi.",
+    "popularity": 9,
+    "year": 2022,
+    "facts": [
+      "Original isekai anime.",
+      "Drama va jang markazda.",
+      "Syujet burilishlari ko‘p."
+    ]
+  },
+  {
+    "name": "Jonli Efirdagi Jang",
+    "genre": ["jangari", "sarguzasht", "drama"],
+    "desc": "Qahramon jonli efirda yovuz kuchlarga qarshi kurashadi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Jang va sarguzasht markazda.",
+      "Original anime.",
+      "Vizual jihatdan yoqimli."
+    ]
+  },
+  {
+    "name": "Shamolni Bo'ysundirish",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Qahramon shamol kuchlarini boshqarib, sarguzashtlarga kiradi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Fantastik va sarguzasht uyg‘un.",
+      "Original anime.",
+      "Vizual jihatdan chiroyli."
+    ]
+  },
+  {
+    "name": "Jodugar va Maxluq",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Qahramon jodugar bilan maxluq dunyosida sarguzashtlar qiladi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Fantastik elementlar mavjud.",
+      "Drama va sarguzasht uyg‘un.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Maxluq Bo'lib Qayta Tug'ilishim",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Qahramon maxluq sifatida yangi dunyoda qayta tug‘ilib, kuchli bo‘lish uchun kurashadi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Isekai janri.",
+      "Sarguzasht va drama uyg‘un.",
+      "Original anime."
+    ]
+  },
+  
+  {
+    "name": "Past Malakali Ninja",
+    "genre": ["jangari", "fantastika", "komediya"],
+    "desc": "Qahramon past malakali ninja sifatida o‘z yo‘lini topib, yovuz kuchlarga qarshi kurashadi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Komediya va jang uyg‘un.",
+      "Isekai elementlari mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Kayju 8-raqam",
+    "genre": ["jangari", "fantastika", "sarguzasht"],
+    "desc": "Qahramon va uning jamoasi yovuz Kayju 8-raqam bilan kurashadi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Fantastik jang markazda.",
+      "Original anime.",
+      "Vizual jihatdan kuchli."
+    ]
+  },
+  {
+    "name": "Re:Zero -Hayotni no'ldan boshlash-",
+    "genre": ["fantastika", "drama", "sarguzasht"],
+    "desc": "Qahramon boshqa dunyoga tushib, hayotini qayta-qayta boshlash imkoniyatiga ega bo‘ladi.",
+    "popularity": 10,
+    "year": 2016,
+    "facts": [
+      "Isekai janri.",
+      "Syujet burilishlari ko‘p.",
+      "Mashhur va original anime."
+    ]
+  },
+  {
+    "name": "Jonli Sana",
+    "genre": ["romantika", "drama"],
+    "desc": "Qahramon va qizning jonli sana orqali rivojlanadigan romantik hikoyasi.",
+    "popularity": 7,
+    "year": 2020,
+    "facts": [
+      "Romantik va dramatik motivlar.",
+      "Original anime.",
+      "Vizual jihatdan yoqimli."
+    ]
+  },
+  {
+    "name": "Farmatsevt Monologi",
+    "genre": ["fantastika", "drama"],
+    "desc": "Qahramon farmatsevt sifatida sirli va xavfli hodisalar bilan shug‘ullanadi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Original anime.",
+      "Drama va sarguzasht markazda.",
+      "Fantastik elementlar mavjud."
+    ]
+  },
+  {
+    "name": "Horimiya",
+    "genre": ["romantika", "komediya", "drama"],
+    "desc": "Oddiy maktab hayoti va sevgi sarguzashtlari hikoyasi.",
+    "popularity": 9,
+    "year": 2021,
+    "facts": [
+      "Romantik va kulgili motivlar.",
+      "Original anime.",
+      "Vizual jihatdan yoqimli."
+    ]
+  },
+  {
+    "name": "Yangi Darvoza",
+    "genre": ["fantastika", "sarguzasht"],
+    "desc": "Qahramon sirli darvozalar orqali boshqa dunyolarga sayohat qiladi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Isekai va sarguzasht janri.",
+      "Original anime.",
+      "Vizual jihatdan ajoyib."
+    ]
+  },
+  {
+    "name": "Lv2 Super Aldash Mahoratlarim Bilan O'zga Dunyoda Hayot",
+    "genre": ["fantastika", "komediya", "sarguzasht"],
+    "desc": "Qahramon aldash va strategiya orqali yangi dunyoda hayot kechiradi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Isekai janri.",
+      "Komediya va sarguzasht uyg‘un.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Yettinchi shahzoda sifatida qayta tugʻildim va endi sehrimni istaganimcha kuchaytiraman",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Qahramon yettinchi shahzoda sifatida qayta tug‘ilib, sehrini kuchaytiradi va sarguzashtlarga kiradi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Isekai janri.",
+      "Drama va sarguzasht markazda.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Qalbimdagi xavf-xatar",
+    "genre": ["romantika", "drama", "sirli"],
+    "desc": "Qahramon sevgi va xavf-xatar orasida o‘z yo‘lini topadi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va sirli motivlar mavjud.",
+      "Drama markazda.",
+      "Original anime."
+    ]
+  },
+  
+  {
+    "name": "Bir xonada quyosh va farishta",
+    "genre": ["romantika", "drama", "fantastika"],
+    "desc": "Qahramon bir xonada farishta bilan uchrashib, sirli va romantik sarguzashtlarga kiradi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Romantik va dramatik motivlar mavjud.",
+      "Fantastik elementlar uyg‘un.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Zombi 100",
+    "genre": ["jangari", "fantastika", "komediya"],
+    "desc": "Qahramon zombi apokalipsisida hayotini saqlab qolishga harakat qiladi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Fantastik va komediya uyg‘un.",
+      "Jang markazda.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "O'gay singlim bilan hayot",
+    "genre": ["romantika", "drama", "komediya"],
+    "desc": "Qahramon o‘gay singlisi bilan birga hayot va sevgida sarguzashtlar qiladi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va kulgili hikoya.",
+      "Drama mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "O'z joniga Qasd qiluvchilar O'zga dunyoda",
+    "genre": ["fantastika", "drama", "sarguzasht"],
+    "desc": "Qahramon boshqa dunyoda yangi hayot boshlaydi va sarguzashtlarga kiradi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Isekai janri.",
+      "Drama va sarguzasht uyg‘un.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Alya ba'zan men bilan rus tilida noz-karashma qiladi",
+    "genre": ["romantika", "komediya"],
+    "desc": "Qahramon Alya bilan kulgili va romantik voqealarni boshdan kechiradi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va komediya uyg‘un.",
+      "Original anime.",
+      "Yoshlar orasida mashhur."
+    ]
+  },
+  {
+    "name": "Men eng kuchli sarguzashtchi bo'lish uchun har doim mashq qildim",
+    "genre": ["fantastika", "jangari", "sarguzasht"],
+    "desc": "Qahramon eng kuchli bo‘lish uchun doimiy mashq qiladi va sarguzashtlarga kiradi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Isekai va sarguzasht janri.",
+      "Drama markazda.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Mening Sempayim o'g'il bolami?",
+    "genre": ["romantika", "komediya", "drama"],
+    "desc": "Qahramon sempai bilan kulgili va romantik voqealarni boshdan kechiradi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va komediya uyg‘un.",
+      "Original anime.",
+      "Yosh auditoriya orasida mashhur."
+    ]
+  },
+  {
+    "name": "Mening bug'u do'stim Nokotan",
+    "genre": ["komediya", "romantika", "drama"],
+    "desc": "Qahramon do‘sti Nokotan bilan kulgili va romantik sarguzashtlarga duch keladi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va komediya markazda.",
+      "Original anime.",
+      "Vizual jihatdan yoqimli."
+    ]
+  },
+  {
+    "name": "O'gay Singlim bilan Kunlarim",
+    "genre": ["romantika", "komediya", "drama"],
+    "desc": "Qahramon o‘gay singlisi bilan kunlar davomida hayot va sevgida sarguzashtlar qiladi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va kulgili hikoya.",
+      "Drama mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Zolim ofitser va Sehrgar qiz",
+    "genre": ["fantastika", "romantika", "drama"],
+    "desc": "Qahramon ofitser va sehrgar qiz bilan sirli va romantik sarguzashtlarga kiradi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Fantastik va romantik hikoya.",
+      "Drama markazda.",
+      "Original anime."
+    ]
+  },
+  
+  {
+    "name": "Hayotdan diskvalifikatsiya qilingan",
+    "genre": ["fantastika", "drama", "sarguzasht"],
+    "desc": "Qahramon hayotdan chetlatilgan bo‘lib, yangi sarguzashtlar va muammolarga duch keladi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Drama va sarguzasht markazda.",
+      "Original anime.",
+      "Fantastik elementlar mavjud."
+    ]
+  },
+  {
+    "name": "Nier: Avtomatlar",
+    "genre": ["jangari", "fantastika", "drama"],
+    "desc": "Qahramon avtomatlar bilan birga insoniyatni tahdiddan saqlashga harakat qiladi.",
+    "popularity": 9,
+    "year": 2017,
+    "facts": [
+      "Futuristik va jang markazda.",
+      "Original anime.",
+      "Vizual jihatdan kuchli."
+    ]
+  },
+  {
+    "name": "Sevgida yutqizgan qizlar namuncha ko'p",
+    "genre": ["romantika", "komediya", "drama"],
+    "desc": "Qahramon bir nechta qizlar bilan romantik va kulgili vaziyatlarga tushadi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va komediya uyg‘un.",
+      "Original anime.",
+      "Yoshlar orasida mashhur."
+    ]
+  },
+  {
+    "name": "Yosh Lord - Qochish ustasi",
+    "genre": ["fantastika", "sarguzasht", "komediya"],
+    "desc": "Qahramon yosh lord sifatida qochish va sarguzasht orqali o‘z maqsadiga yetadi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Isekai janri.",
+      "Sarguzasht va komediya uyg‘un.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Bir Soatli Qizcha",
+    "genre": ["drama", "romantika", "fantastika"],
+    "desc": "Qahramon bir soat ichida qizcha bilan sirli va romantik voqealarni boshdan kechiradi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va dramatik hikoya.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Xotinimning his-tuyg'ulari yo'q",
+    "genre": ["drama", "romantika", "komediya"],
+    "desc": "Qahramon xotinining his-tuyg‘ularini tushunishga harakat qiladi va kulgili vaziyatlarga duch keladi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va kulgili hikoya.",
+      "Drama markazda.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Hojatxonaga bog'langan Hanako-kun",
+    "genre": ["fantastika", "sirli", "komediya"],
+    "desc": "Qahramon Hanako-kun bilan sirli va kulgili sarguzashtlarga kiradi.",
+    "popularity": 8,
+    "year": 2020,
+    "facts": [
+      "Fantastik va sirli hikoya.",
+      "Komediya mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Tahlil qilish qobiliyati bilan Aristokrat bo'lib Qayta tug'ilish",
+    "genre": ["fantastika", "drama", "sarguzasht"],
+    "desc": "Qahramon aristokrat sifatida qayta tug‘ilib, ajoyib strategiyalar va sarguzashtlarga kiradi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Isekai janri.",
+      "Drama va sarguzasht markazda.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "O'gay onamni qizi - Meni sobiq sevgilim",
+    "genre": ["romantika", "drama", "komediya"],
+    "desc": "Qahramon sobiq sevgilisi bilan o‘gay onasi oilasida kulgili va romantik vaziyatlarga tushadi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va kulgili hikoya.",
+      "Drama markazda.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Spiral",
+    "genre": ["sirli", "jangari", "drama"],
+    "desc": "Qahramon sirli hodisalar va jinoyatlarni ochib, sarguzashtlarga kiradi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Mystery va jang markazda.",
+      "Original anime.",
+      "Drama mavjud."
+    ]
+  },
+  
+  {
+    "name": "Amagami Oilasi bilan Nikoh rishtalari",
+    "genre": ["romantika", "drama", "komediya"],
+    "desc": "Qahramon Amagami oilasi bilan nikoh rishtalari orqali kulgili va romantik voqealarni boshdan kechiradi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va komediya uyg‘un.",
+      "Drama elementlari mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Mexanik Qo'llar",
+    "genre": ["fantastika", "jangari", "sarguzasht"],
+    "desc": "Qahramon mexanik qo‘llar bilan sarguzasht va janglarga kiradi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Jang va sarguzasht markazda.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Moviy Quticha",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Qahramon sirli moviy quticha orqali sarguzashtlarga kiradi.",
+    "popularity": 7,
+    "year": 2022,
+    "facts": [
+      "Fantastik va sarguzasht uyg‘un.",
+      "Drama mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Dandadan",
+    "genre": ["fantastika", "komediya", "sarguzasht"],
+    "desc": "Qahramon Dandadan bilan kulgili va sarguzashtlarga kiradi.",
+    "popularity": 7,
+    "year": 2022,
+    "facts": [
+      "Komediya va sarguzasht uyg‘un.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Yer Harakati",
+    "genre": ["fantastika", "drama", "sarguzasht"],
+    "desc": "Qahramon yer harakati orqali yangi sarguzashtlar va muammolarga duch keladi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Isekai janri.",
+      "Drama va sarguzasht markazda.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Maxluqlar Maktabi",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Qahramon maxluqlar maktabida bilim oladi va sarguzashtlarga kiradi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Isekai va sarguzasht janri.",
+      "Drama markazda.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Iblislar Hukmdori 2099",
+    "genre": ["jangari", "fantastika", "sarguzasht"],
+    "desc": "Qahramon yovuz iblislar hukmdoriga qarshi kurashadi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Jang va sarguzasht markazda.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Taqdir: Soxtalik",
+    "genre": ["sirli", "drama", "fantastika"],
+    "desc": "Qahramon soxtalik va sirli hodisalarni ochishga harakat qiladi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Mystery va drama markazda.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Men yomon Ko'rgan sinfdoshimga uylandim",
+    "genre": ["romantika", "komediya", "drama"],
+    "desc": "Qahramon yomon ko‘rgan sinfdoshi bilan turmush qurib, kulgili va romantik vaziyatlarga tushadi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va kulgili hikoya.",
+      "Drama markazda.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Medaka Jozibadorligimni Tushunmaydi",
+    "genre": ["romantika", "komediya", "drama"],
+    "desc": "Qahramon Medaka bilan kulgili va romantik vaziyatlarga tushadi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va komediya uyg‘un.",
+      "Original anime.",
+      "Vizual jihatdan yoqimli."
+    ]
+  },
+
+  {
+    "name": "Sakamoto Kunlari",
+    "genre": ["komediya", "drama", "romantika"],
+    "desc": "Qahramon Sakamoto hayotning barcha muammolarini o‘ziga xos uslubda hal qiladi va kulgili vaziyatlarga tushadi.",
+    "popularity": 8,
+    "year": 2016,
+    "facts": [
+      "Komediya va drama uyg‘un.",
+      "Original anime.",
+      "Yosh auditoriya orasida mashhur."
+    ]
+  },
+  {
+    "name": "Vinland haqida afsona",
+    "genre": ["sarguzasht", "drama", "tarixiy"],
+    "desc": "Qahramon Vinlandni kashf qiluvchi vikinglar bilan sarguzashtlarga kiradi.",
+    "popularity": 9,
+    "year": 2019,
+    "facts": [
+      "Tarixiy va sarguzasht janri.",
+      "Drama markazda.",
+      "Vizual jihatdan kuchli."
+    ]
+  },
+  {
+    "name": "Seni Qiyofang",
+    "genre": ["romantika", "drama", "fantastika"],
+    "desc": "Qahramon sirli qiyofaga ega qiz bilan romantik va dramatik sarguzashtlarga kiradi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va dramatik motivlar mavjud.",
+      "Fantastik elementlar uyg‘un.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Odamlar va Jinlar solnomasi",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Qahramon odamlar va jinlar orasidagi sirli hodisalarni o‘rganadi va sarguzashtlarga kiradi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Fantastik va sarguzasht markazda.",
+      "Drama mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Oxiridan Keyingi Boshlanish",
+    "genre": ["fantastika", "jangari", "drama"],
+    "desc": "Qahramon dunyo oxiridan keyingi hayot va sarguzashtlarni boshdan kechiradi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Isekai va jangari janri.",
+      "Drama markazda.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Bo'ysunmaslar: Meni qahramonlik akademiyam",
+    "genre": ["fantastika", "jangari", "sarguzasht"],
+    "desc": "Qahramon qahramonlik akademiyasida yangi sarguzashtlarga kiradi va kuchli bo‘lishga harakat qiladi.",
+    "popularity": 9,
+    "year": 2021,
+    "facts": [
+      "Jang va sarguzasht markazda.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Qishloqdagi qariya muqaddas qilich ustasiga aylandi",
+    "genre": ["fantastika", "sarguzasht", "drama"],
+    "desc": "Qahramon qishloqdagi qariya muqaddas qilich ustasiga aylanib, sarguzashtlarga kiradi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Fantastik va sarguzasht uyg‘un.",
+      "Drama markazda.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Qahramon X",
+    "genre": ["jangari", "fantastika", "sarguzasht"],
+    "desc": "Qahramon sirli Qahramon X sifatida yovuz kuchlarga qarshi kurashadi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Jang va sarguzasht markazda.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  
+  {
+    "name": "Yigit va qiz o'rtasida do'stlik bo'lishi mumkinmi?",
+    "genre": ["drama", "romantika", "komediya"],
+    "desc": "Qahramonlar yigit va qiz o‘rtasidagi do‘stlik va munosabatlarni o‘rganadilar.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va kulgili motivlar mavjud.",
+      "Drama markazda.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Sirlar Hukmdori",
+    "genre": ["fantastika", "sirli", "sarguzasht"],
+    "desc": "Qahramon sirli hukmdor bilan dunyoni o‘zgartirish va sarguzashtlarga kiradi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Sirli va sarguzasht janri.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Zulmat Farzandi",
+    "genre": ["jangari", "fantastika", "drama"],
+    "desc": "Qahramon zulmat farzandi sifatida yovuz kuchlarga qarshi kurashadi.",
+    "popularity": 8,
+    "year": 2022,
+    "facts": [
+      "Jang va drama markazda.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Hikaruning so'ngi yozi",
+    "genre": ["drama", "romantika", "fantastika"],
+    "desc": "Qahramon Hikaruning oxirgi yozini boshdan kechiradi va romantik sarguzashtlarga kiradi.",
+    "popularity": 7,
+    "year": 2021,
+    "facts": [
+      "Romantik va dramatik hikoya.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Gachiakuta",
+    "genre": ["komediya", "fantastika", "sarguzasht"],
+    "desc": "Qahramon Gachiakuta bilan kulgili va sarguzashtlarga kiradi.",
+    "popularity": 7,
+    "year": 2022,
+    "facts": [
+      "Komediya va sarguzasht uyg‘un.",
+      "Fantastik elementlar mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "Takopining ilk Gunohi",
+    "genre": ["fantastika", "drama", "sarguzasht"],
+    "desc": "Qahramon Takopining birinchi gunohi va uning oqibatlari bilan sarguzashtga kiradi.",
+    "popularity": 8,
+    "year": 2021,
+    "facts": [
+      "Fantastik va drama markazda.",
+      "Sarguzasht elementlari mavjud.",
+      "Original anime."
+    ]
+  },
+  {
+    "name": "G'urur bilan Gullaydigan Qiz",
+    "genre": ["romantika", "drama", "komediya"],
+    "desc": "Qahramon g'urur bilan o‘z yo‘lini topadigan qizning hikoyasini kuzatadi.",
+    "popularity": 7,
+    "year": 2022,
+    "facts": [
+      "Romantik va dramatik motivlar mavjud.",
+      "Kulgili elementlar uyg‘un.",
+      "Original anime."
+    ]
+  }
+  ]
+}
